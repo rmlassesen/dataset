@@ -11,14 +11,19 @@ Indeholder også parkeringspladser reserveret til ambassader og konsulater.
 * https://data.kk.dk/dataset/parkeringspladser
 * https://data.kk.dk/dataset/parkeringspladser/resource/b1d84794-8262-4fd9-9346-db7bedcc0c8f
 
-1. find all p-pladers i Indre By
+1. Hvor mange p-pladser er der i Indre By? Hvilken vej har flest?
 
-2. hvor mange Privat p-pladers er der i alt
+2. Er der i København flest p-pladser i den side af vejen med lige eller ulige husnumre?
+ 2b. Hvilken side har flest afmærkede parkeringsbåse?
 
-3. hvilken p-plads har flest p-plader
+3. Vis med et splittet bar-plot den procentvise fordeling(y-aksen) af private og offentlige p-pladser i hver by-del(x-aksen)
 
-4. hvad er forskellen melem den by-del der flest Privat p-pladser og den der mindst
+Inkludér følgende dataset:  
 
-5. plot hvliken by-del der har flest p-pladser
+* https://data.kk.dk/dataset/indkomst-bruttoindkomst-husstandstype
+* https://data.kk.dk/dataset/indkomst-bruttoindkomst-husstandstype/resource/bd5b19ee-cedd-4b69-9272-532a1bce1eee
 
-6. plot hvilken by-del er der flest privat p-pladser
+4. Hvilken familietype har de bedste parkeringsmuligheder?
+
+5. Vis fordelingen af private parkeringspladser og parkeringsmuligheder for el-biler ift hver bydels gennemsnitlige burttoindkomst.
+
