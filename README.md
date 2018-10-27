@@ -14,7 +14,8 @@ Indeholder også parkeringspladser reserveret til ambassader og konsulater.
 1. Hvor mange p-pladser er der i Indre By? Hvilken vej har flest?
 
 2. Er der i København flest p-pladser i den side af vejen med lige eller ulige husnumre?
- +2b. Hvilken side har flest afmærkede parkeringsbåse?
+
+ i.vilken side har flest afmærkede parkeringsbåse?
 
 3. Vis med et splittet bar-plot den procentvise fordeling(y-aksen) af private og offentlige p-pladser i hver by-del(x-aksen)
 
