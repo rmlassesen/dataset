@@ -26,5 +26,6 @@ Inkludér følgende dataset:
 
 4. Hvilken familietype har de bedste parkeringsmuligheder?
 
-5. Vis fordelingen af private parkeringspladser og parkeringsmuligheder for el-biler ift hver bydels gennemsnitlige burttoindkomst.
+5. Vis fordelingen af private parkeringspladser og parkeringsmuligheder for el-biler ift hver bydels gennemsnitlige bruttoindkomst.
 
+6. Farvekod på et kort bydelene i København, ud fra den gennemsnitlige bruttoindkomst. Plot markers med private (P) og el-bil-parkeringspladser (EL) 
