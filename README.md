@@ -9,7 +9,7 @@ Indeholder også parkeringspladser reserveret til ambassader og konsulater.
 ```
 
 * https://data.kk.dk/dataset/parkeringspladser
-* https://data.kk.dk/dataset/parkeringspladser/resource/b1d84794-8262-4fd9-9346-db7bedcc0c8f
+* http://wfs-kbhkort.kk.dk/k101/ows?service=WFS&version=1.0.0&request=GetFeature&typeName=k101:p_pladser&outputFormat=csv&SRSNAME=EPSG:4326
 
 1. Hvor mange p-pladser er der i Indre By? Hvilken vej har flest?
 
@@ -22,7 +22,7 @@ Indeholder også parkeringspladser reserveret til ambassader og konsulater.
 Inkludér følgende dataset:  
 
 * https://data.kk.dk/dataset/indkomst-bruttoindkomst-husstandstype
-* https://data.kk.dk/dataset/indkomst-bruttoindkomst-husstandstype/resource/bd5b19ee-cedd-4b69-9272-532a1bce1eee
+* https://data.kk.dk/dataset/e734af29-4e40-4754-9cce-789a7513dd8a/resource/bd5b19ee-cedd-4b69-9272-532a1bce1eee/download/indkomstbruttohustypev.csv
 
 4. Hvilken familietype har de bedste parkeringsmuligheder?
 
